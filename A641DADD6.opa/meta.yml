@@ -1,0 +1,19 @@
+id: A641DADD6
+title: Calling the Guru from Afar
+type: translation
+pechas:
+- I0440DA60
+- I42129220
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:35:42.037066
+  last_modified_at: 2023-01-04 11:35:42.037079
+  collections:
+  - Dilgo Khyentse Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I0440DA60/AE68: '8044'
+  I42129220/9A3A: '8044'
